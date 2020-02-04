@@ -16,12 +16,12 @@ Assets->Scenes->SampleScene をHierarchyにドラッグ＆ドロップすると�
 ## 惑星のテクスチャ画像の配布元
 以下のサイトから集めましたが、配布元はNASAのようです。  
 NASAの画像は通常著作権フリーのようですが、商用利用は自己責任でお願いします。  
-### 地球
-Blue Marble (https://earthobservatory.nasa.gov/features/BlueMarble/BlueMarble_2002.php)  
-### 水星、金星、火星、木星、天王星、海王星
-壁紙 宇宙館（http://powerforce.moo.jp/list1297.html）  
-### 土星
-JHT's Planetary Pixel Emporium (http://planetpixelemporium.com/index.php)  
-### 月
-CGBeginner (https://cgbeginner.net/create-moon/)  
+・地球
+　Blue Marble (https://earthobservatory.nasa.gov/features/BlueMarble/BlueMarble_2002.php)  
+・水星、金星、火星、木星、天王星、海王星
+　壁紙 宇宙館（http://powerforce.moo.jp/list1297.html)  
+・土星、土星の輪
+　JHT's Planetary Pixel Emporium (http://planetpixelemporium.com/index.php)  
+・月
+　CGBeginner (https://cgbeginner.net/create-moon/)  
 
