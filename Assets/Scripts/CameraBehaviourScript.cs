@@ -1,5 +1,5 @@
 ﻿
-#define GYRO_ENABLE
+//#define GYRO_ENABLE
 //#define GYRO_LOG
 
 
